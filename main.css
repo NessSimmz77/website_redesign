@@ -178,16 +178,15 @@ h4{
     padding: 10px 20px;
     
 }
-/* 
+
 .search-bar input{
-    background: transparent; 
+    
     flex: 1;
     border: 0;
-    outline: none;
-    padding: 24px 20px;
-    font-size: 20px;
-    color: #cac7ff;
-} */
+    padding: 14px 10px;
+    font-size: 12px;
+    color: black
+}
 
 ::placeholder{
     color: rgba(0, 0, 0, 0.388)
